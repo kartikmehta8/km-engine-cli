@@ -1,4 +1,4 @@
-# KM - Node.js Template Engine CLI
+# KM - A Template Engine CLI
 
 ![BANNER](./assets/banner.webp)
 
